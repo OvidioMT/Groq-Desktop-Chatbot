@@ -4,7 +4,7 @@
 
 **Groq Desktop Chatbot** is a desktop-based conversational assistant developed in Python that integrates the Groq API with a graphical user interface built using Tkinter.
 
-The application enables users to interact with a Large Language Model (LLM) in real time through a clean and intuitive desktop interface. It supports multiple conversational styles through configurable **chatbot personalities, allowing the assistant to adapt its tone and behavior depending on the selected mode.
+The application enables users to interact with a Large Language Model (LLM) in real time through a clean and intuitive desktop interface. It supports multiple conversational styles through configurable chatbot personalities, allowing the assistant to adapt its tone and behavior depending on the selected mode.
 
 The system is designed with a modular architecture that separates configuration, chatbot logic, and user interface, making the project easy to maintain, extend, and integrate with additional features in the future.
 
