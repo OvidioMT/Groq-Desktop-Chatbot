@@ -104,7 +104,7 @@ Provided through the **Groq API** for high-performance inference.
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/groq-chatbot.git
+git clone https://github.com/OvidioMT/Groq-Desktop-Chatbot.git
 cd groq-chatbot
 ```
 
