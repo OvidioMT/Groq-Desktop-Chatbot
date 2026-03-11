@@ -39,7 +39,7 @@ These personalities are implemented through system prompts that modify the model
 
 # System Architecture
 
-The project follows a **modular architecture** to separate responsibilities between components.
+The project follows a modular architecture to separate responsibilities between components.
 
 ```
 groq-chatbot/
@@ -95,7 +95,7 @@ groq-chatbot/
 llama-3.1-8b-instant
 ```
 
-Provided through the **Groq API** for high-performance inference.
+Provided through the Groq API for high-performance inference.
 
 ---
 
@@ -166,9 +166,9 @@ The chatbot desktop interface should open automatically.
 
 # Application Usage
 
-1. Select a **chatbot personality** from the dropdown menu.
+1. Select a chatbot personality from the dropdown menu.
 2. Type a message in the input box.
-3. Press **Enter** or click **Send**.
+3. Press Enter or click Send.
 4. The chatbot will generate a response using the Groq API.
 5. Additional options:
 
