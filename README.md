@@ -1,4 +1,4 @@
-# c v1.0
+# Groq Desktop Chatbot v1.0
 
 ## Description
 
