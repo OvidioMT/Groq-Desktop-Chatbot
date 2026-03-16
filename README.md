@@ -92,7 +92,7 @@ groq-chatbot/
 ### AI Model
 
 ```
-llama-3.1-8b-instant
+openai/gpt-oss-120b
 ```
 
 Provided through the Groq API for high-performance inference.

@@ -16,7 +16,7 @@ class Chatbot:
 
     def get_response(self):
         completion = self.client.chat.completions.create(
-            model="llama-3.1-8b-instant",
+            model="openai/gpt-oss-120b",
             messages=self.messages
         )
         respuesta = completion.choices[0].message.content
